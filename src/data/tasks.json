@@ -1,0 +1,25 @@
+[
+{
+    "title": "Tasks with tags",
+    "description": "",
+    "deadline": null,
+    "tags": [
+   {
+    "id":1,
+    "name": "important"
+   } ,
+   {
+    "id":2,
+    "name": "work"
+
+   }
+    ],
+    "priority": false,
+    "image":"",
+    "completed": false,
+    "id":"6174b232-fa00-48ce-b53e-9742d6852663",
+    "createdAt": 1655044887962
+}
+
+
+]
